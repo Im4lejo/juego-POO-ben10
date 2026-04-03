@@ -6,11 +6,10 @@ public class GameCharacter {
     private int energy;
     Stats stats;
 
-    public GameCharacter(int health, int energy) {
-        this.health = health;
-        this.energy = energy;
-        stats = new Stats(0,0,0);
+    public void setStats(double damageLevel,double defense, double agility) {
+        this.stats = new Stats(damageLevel,defense,agility);
     }
+
 
     public void setHealth(int health) {
         this.health = health;
@@ -18,10 +17,6 @@ public class GameCharacter {
 
     public void setEnergy(int energy) {
         this.energy = energy;
-    }
-
-    public void setStats(Stats stats) {
-        this.stats = stats;
     }
 
     public int getHealth() {

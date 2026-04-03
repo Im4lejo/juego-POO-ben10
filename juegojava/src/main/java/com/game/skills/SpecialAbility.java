@@ -1,5 +1,5 @@
 package com.game.skills;
 
-public class Defense {
+public class SpecialAbility {
     
 }
