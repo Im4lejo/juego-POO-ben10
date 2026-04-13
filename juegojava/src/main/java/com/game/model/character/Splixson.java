@@ -1,12 +1,13 @@
 package com.game.model.character;
 
-public class Splixson extends GameCharacter{
-    public Splixson(){
-        super();
-        setStats(30,40,50);
-        setHealth(80);
-        setEnergy(90);
+import com.game.model.ability.Ability;
+import effects.Effect;
+import com.game.model.stats.Stats;
+import java.util.ArrayList;
 
+public class Splixson extends GameCharacter{
+    public Splixson(int health, int energy, Stats stats, Effect effect, ArrayList<Ability> abilities, String Name){
+        super(health,energy,stats,effect,abilities);
     }
     
 }

@@ -1,6 +1,6 @@
-package com.game.model.ability;
+package com.game.model.ability.skills;
+import com.game.model.ability.Ability;
 import com.game.model.character.GameCharacter;
-
 import com.game.model.stats.Stats;
 public class BasicAttack implements Ability {
 

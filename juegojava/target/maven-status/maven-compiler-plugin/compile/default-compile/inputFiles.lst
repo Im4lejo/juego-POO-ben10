@@ -1,12 +1,13 @@
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\GameController\Combat.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\GameController\Main.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\Ability.java
-C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\AbstractAbility.java
-C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\BasicAttack.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\BlackDefense.java
+C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\Effect.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\Fire.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\MidAttack.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\NetworkSensorial.java
+C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\skills\BasicAttack.java
+C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\skills\Medium_Attack.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\ability\Weakness.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\character\BigChill.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\character\Frankenstrike.java
@@ -15,4 +16,3 @@ C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\character\He
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\character\Splixson.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\item\Items.java
 C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\model\stats\Stats.java
-C:\Users\ALEJO\Desktop\juego\juegojava\src\main\java\com\game\skills\SpecialAbility.java
