@@ -1,7 +1,7 @@
 package com.game.model.character;
 
 import com.game.model.ability.Ability;
-import effects.Effect;
+import com.game.model.effects.Effect;
 import com.game.model.stats.Stats;
 import java.util.ArrayList;
 

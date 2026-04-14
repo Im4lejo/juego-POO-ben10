@@ -1,6 +1,6 @@
 package com.game.model.ability;
 
-import effects.SplixsonSpecialEffect;
+import com.game.model.effects.SplixsonSpecialEffect;
 import com.game.model.character.GameCharacter;
 
 public class  NetworkSensorial  implements Ability{
